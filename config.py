@@ -14,7 +14,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # Add Owner Username without @ 
 OWNER_USERNAME = getenv("OWNER_USERNAME", "PAWAN_IS_BACK")
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME", "MERA_X_PYAR_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME", "LOVER_X_MUSIC_BOT")
 # Don't Add style font 
 BOT_NAME = getenv("BOT_NAME", "SONA_X_MUSIC_")
 #get Your Assistant User name
@@ -37,7 +37,10 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
-
+UPSTREAM_REPO = getenv(
+    "UPSTREAM_REPO",
+    "https://github.com/code663/DAXXMUSIC",
+)
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
