@@ -15,8 +15,8 @@ LOGGER_ID = -1002881142866
 OWNER_ID = 7926944005
 
 # Optional/Extra
-OWNER_USERNAME = getenv("OWNER_USERNAME", "PAWAN_IS_BACK")
-BOT_USERNAME = getenv("BOT_USERNAME", "LOVER_X_MUSIC_BOT")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "ll_KUZE_ll")
+BOT_USERNAME = getenv("BOT_USERNAME", "Gojo_X_Jinwoo_bot")
 BOT_NAME = getenv("BOT_NAME", "LOVER MUSIC")
 ASSUSERNAME = getenv("ASSUSERNAME", "LOVER_ASS")
 EVALOP = [7926944005]
@@ -29,8 +29,8 @@ UPSTREAM_REPO = "https://github.com/code663/DAXXMUSIC"
 UPSTREAM_BRANCH = "Master"
 GIT_TOKEN = None
 
-SUPPORT_CHANNEL = "https://t.me/ANGEL_K_WORLD"
-SUPPORT_CHAT = "https://t.me/DIL_TO_PAGAL_HAI_01"
+SUPPORT_CHANNEL = "https://t.me/dark_x_knight_musiczz_support"
+SUPPORT_CHAT = "https://t.me/+DbezTihsh_VlYzY1"
 
 AUTO_LEAVING_ASSISTANT = False
 
